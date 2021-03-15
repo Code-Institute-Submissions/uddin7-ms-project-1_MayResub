@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+body{
+    background-color: tomato;
+}
+
+header {
+    margin: 0;
+   
+}
+h2{
+ text-decoration-color: chocolate;
+}
+.logo {
+     background: url("../images/gym.jpg.jpg");
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+.container-fluid h1 {
+color: white;
+}
