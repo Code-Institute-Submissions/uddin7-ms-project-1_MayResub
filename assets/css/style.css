@@ -11,7 +11,7 @@ body {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color:burlywood;
+   background-color:#574848;
    color: white;
    text-align: center;
    
@@ -68,13 +68,13 @@ body {
   color: black;
 }
 
-.social-networks{
+.social-media{
   text-align: center;
 }
-.social-networks li{
+.social-media li{
   display: inline;
 }
-.social-networks i{
+.social-media i{
   font-size: 160%;
   margin: 1%;
   padding: 5%;
