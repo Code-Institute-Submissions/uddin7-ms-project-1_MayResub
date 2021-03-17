@@ -56,48 +56,37 @@
  </div>
  </section>
  <section>
-  <div class="container-fluid">
-
-         <div class="row">
-             <div class="col-6 col-md-4" style="background-color:black;">
-                 <div class="fly-image">
-                     <div class="fly-text">
-    
-                         <h4>Get Fit Membership</h4>
-                         <p>No Contract</p>
-                         <p>Flexible Options</p>
-                             <button type="button" class="btn btn-primary">Join Today</button>
-                      </div>
-                   </div>
-              </div>
-                 <div class="col-6 col-md-4" style="background-color:black;">
-                         <div class="fly-image1">
-                            <div class="fly-text1">
-                                  <h2>Membership</h2>
-                                 <p>€25 Monthly</p>
-                                 <p>+€20 Joining fee</p>
-                                 <br>
-                                 <p>€180 yearly</p>
-                                  <p>+€20 Joining fee</p>
-                                     <button type="button" class="btn btn-primary">Join Today</button>
-                             </div>
-                         </div>
-                  </div>
-                  <div class="col-6 col-md-4" style="background-color:black;">
-                            <div class="fly-image2">
-                              <div class="fly-text2">
-                                  <h2>Flexi Pass</h2>
-                                      <br>
-                                   <p>€7 1day</p>
-                                   <p>€12 2days</p>
-                                   <p>€15 3days</p>
-                                     <button type="button" class="btn btn-primary">Join Today</button>
-                               </div> 
-                             </div>
-                   </div>
-           </div>
-     </div>
- </section>
+  <div class="container">
+  <h2>Stacked form</h2>
+  <form action="/action_page.php">
+    <div class="form-group">
+      <label for="fname">First Name:</label>
+      <input type="fname" class="form-control" id="fname" placeholder="Enter First name" name="fname">
+    </div>
+    <div class="form-group">
+      <label for="lname">Last Name:</label>
+      <input type="lname" class="form-control" id="lname" placeholder="Enter Last name" name="lname">
+    </div>
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+    </div>
+    <div class="form-group">
+      <label for="pwd">Password:</label>
+      <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
+    </div>
+    <div class="form-group">
+      <label for="pwd">Confirm Password:</label>
+      <input type="password" class="form-control" id="pwd" placeholder="Enter Confirm password" name="pswd">
+    </div>
+    <div class="form-group form-check">
+      <label class="form-check-label">
+        <input class="form-check-input" type="checkbox" name="remember"> Remember me
+      </label>
+    </div>
+    <button type="submit" class="btn btn-primary">Join</button>
+  </form>
+</div>
  <section>
   
  <footer>
