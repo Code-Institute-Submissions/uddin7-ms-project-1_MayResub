@@ -44,7 +44,7 @@ color:  white;
   transform: translate(-50%, -50%);
   color: white;
 }
-.fly-image {
+.classes-image {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJw7rRUOh5weRp6fGX-GabK2ETzH5bnjwrMA&usqp=CAU");
   background-color: #cccccc;
   height: 355px;
@@ -55,7 +55,7 @@ color:  white;
   position: relative;
 }
 
-.fly-text {
+.classes-text {
   text-align: center;
   position: absolute;
   top: 50%;
@@ -63,7 +63,7 @@ color:  white;
   transform: translate(-50%, -50%);
   color: white;
 }
-.fly-image1 {
+.classes-image1 {
   background-image: url("https://elementfitness.com.au/wp-content/uploads/2020/01/bodypump.jpg");
   background-color: #cccccc;
   height: 355px;
@@ -74,7 +74,7 @@ color:  white;
   position: relative;
 }
 
-.fly-text1 {
+.classes-text1 {
   text-align: center;
   position: absolute;
   top: 50%;
@@ -83,7 +83,7 @@ color:  white;
   color: white;
 }
 
-.fly-image2 {
+.classes-image2 {
   background-image: url("https://www.asphaltgreen.org/images/uploads/blog/_medium/BRAND-IMAGE-SS15-BODYPUMP-8_940x530.jpg");
   background-color: #cccccc;
   height: 355px;
@@ -94,7 +94,45 @@ color:  white;
   position: relative;
 }
 
-.fly-text2 {
+.classes-text2 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.classes-image3 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJw7rRUOh5weRp6fGX-GabK2ETzH5bnjwrMA&usqp=CAU");
+  background-color: #cccccc;
+  height: 355px;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.classes-text3 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.classes-image4 {
+  background-image: url("https://elementfitness.com.au/wp-content/uploads/2020/01/bodypump.jpg");
+  background-color: #cccccc;
+  height: 355px;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.classes-text4 {
   text-align: center;
   position: absolute;
   top: 50%;
@@ -103,6 +141,25 @@ color:  white;
   color: white;
 }
 
+.classes-image5 {
+  background-image: url("https://www.asphaltgreen.org/images/uploads/blog/_medium/BRAND-IMAGE-SS15-BODYPUMP-8_940x530.jpg");
+  background-color: #cccccc;
+  height: 355px;
+  width: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.classes-text5 {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
 .footer {
    position: center;
    left: 0;
