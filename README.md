@@ -51,15 +51,15 @@ Desktop Wireframes
 Tablet Wireframes
 
 ## Credits
-Code: 
-      •Hero image background code using from w3schools and customised for this project.
-      •Bootstrap 4 was using for responsive 
-      •Internal tutorial is used with customized for this project.
-Content:
-    • All content was written by developer
+###Code: 
+      #### Hero image background code using from w3schools and customised for this project.
+      #### Bootstrap 4 was using for responsive 
+      #### Internal tutorial is used with customized for this project.
+###Content:
+    #### All content was written by developer
 
-## Media
-        •   All Images is used in this project were obtained from google
+### Media
+        ####   All Images is used in this project were obtained from google
 ## Acknowledgements
-  •	I received inspiration and continuous helpful feedback for this project from Mo Sami
+  ### I received inspiration and continuous helpful feedback for this project from Mo Sami
 
