@@ -33,12 +33,14 @@ Contact: user can contact with management by submitting queries and find the loc
 •	News and events
 
 ## Technologies Used
-HTML5:
-CSS:
-BOOTSTRAP4:
-GITHUB :
-GIT POD:
-BALSAMIQ :
+HTML5
+CSS3
+## Frameworks, Libraries & Programs used
+BOOTSTRAP4: Bootstrap was using to make responsiveness and styling of the website.
+GITHUB : GitHub is used to store the projects code after pushing from git.
+GITPOD: GitPod is used to writing the code.
+Git: Git was used for verson control
+BALSAMIQ : Balsamiq was used to create the wireframes during the design process.
 Google Font awesome:
 
 Colors
@@ -49,8 +51,15 @@ Desktop Wireframes
 Tablet Wireframes
 
 ## Credits
+Code: 
+      •Hero image background code using from w3schools and customised for this project.
+      •Bootstrap 4 was using for responsive 
+      •Internal tutorial is used with customized for this project.
+Content:
+    • All content was written by developer
+
 ## Media
-•	The photos used in this site were obtained from google
+        •   All Images is used in this project were obtained from google
 ## Acknowledgements
-•	I received inspiration for this project from Mo Sami
+  •	I received inspiration and continuous helpful feedback for this project from Mo Sami
 
