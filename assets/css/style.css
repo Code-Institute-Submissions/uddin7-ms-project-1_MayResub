@@ -10,7 +10,6 @@ body {
 font-family: Arial, Helvetica, sans-serif;
 color:  white;
 }
-
 .header {
    position: center;
    left: 0;
@@ -21,6 +20,10 @@ color:  white;
    text-align: center;
    
 }
+
+
+
+
  .container-fluid{
    background-color: rgb(202, 202, 179);
    
@@ -277,7 +280,8 @@ color:  white;
   transform: translate(-50%, -50%);
   color: white;
 }
-.footer {
+
+   .footer {
    position: center;
    left: 0;
    bottom: 0;
@@ -285,8 +289,9 @@ color:  white;
    background-color:#574848;
    color: white;
    text-align: center;
-   
-}
+   }
+
+
 .social-media{
   text-align: center;
 }
