@@ -61,5 +61,5 @@ Tablet Wireframes
 ### Media
  ####   All Images is used in this project were obtained from google
 ## Acknowledgements
-  ### I received inspiration and continuous helpful feedback for this project from Mo Sami
+  ### I received inspiration and continuous helpful feedback for this project from my mentor Mo Sami
 
