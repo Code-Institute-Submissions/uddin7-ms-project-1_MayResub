@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Get Fit</title>
 </head>
@@ -51,10 +54,44 @@
                     <p>€25 PM</p>
                     <p>No Contract</p>
                      <P>+Joining fee</P>
-    
-    <a href="join.html" class="btn btn-primary">Join Today</a>
+                     <h2><a href="join.html" class="btn btn-primary">Join Today</a></h2>
+              </div>
+              <br>
+              <!--This is Modal section taken from https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_modal&stacked=h and customised -->
+              <div class="container">
+  
+  <!-- Button to Open the Modal -->
+  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+    Special Offer
+  </button>
+
+  <!-- The Modal -->
+  <div class="modal" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Free Membership</h4>
+          <button type="button" class="close" data-dismiss="modal">Untill May2021</button>
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          <p style="color:red;">Free membership for everyone until May2021</p>
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </div>
+        
+      </div>
+    </div>
   </div>
- </div>
+  
+</div>
+        </div>
  </section>
  <section>
   <div class="container-fluid">
