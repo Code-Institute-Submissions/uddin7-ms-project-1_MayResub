@@ -1,4 +1,4 @@
-# ms-project-1
+# MS1 Project - GET FIT
  Project's Name and Goals
 GET FIT, Fitness for life is a health and fitness centre to provide information and training awareness of health and fitness in daily lifestyle. 
 ## User Goals
