@@ -65,10 +65,11 @@ These user can achieve their goals by doing specific strength and performance cl
 * BALSAMIQ : Balsamiq was used to create the wireframes during the design process.
 * Google Fonts: Google fonts were used into the style.css file which is used on all pages throughout the project.
 * Font Awesome: Font Awesome is used on all the pages throughout the project.
-Structure
-Wireframes
-Desktop Wireframes
-Tablet Wireframes
+## Wireframes
+* wireframes links[Wireframes](https://rose-anglerfish-14ntdq4z.ws-eu03.gitpod.io/#/workspace/ms-project-1)
+## Testing
+* [W3C markup validator](https://validator.w3.org/) - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F)
+* [W3C CSS validator](http://www.css-validator.org/) - [Result](http://www.css-validator.org/validator?uri=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F&profile=css21&usermedium=all&warning=1&lang=en)
 
 ## Credits
 ### Code :
