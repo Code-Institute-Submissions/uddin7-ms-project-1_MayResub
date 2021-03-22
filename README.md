@@ -70,6 +70,16 @@ These user can achieve their goals by doing specific strength and performance cl
 ## Testing
 * [W3C markup validator](https://validator.w3.org/) - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F)
 * [W3C CSS validator](http://www.css-validator.org/) - [Result](http://www.css-validator.org/validator?uri=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F&profile=css21&usermedium=all&warning=1&lang=en)
+## Testing User Stories from User Experience (UX) Section
+
+## Further Testing
+
+## Known Bugs
+
+## Deployment
+### GitHub pages
+* the project was deployed to github pages by following steps
+
 
 ## Credits
 ### Code :
