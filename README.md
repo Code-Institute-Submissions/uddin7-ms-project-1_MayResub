@@ -33,14 +33,14 @@ These user can achieve their goals by doing specific strength and performance cl
 * News and events
 
 ## Technologies Used
-HTML5
-CSS3
+* HTML5
+* CSS3
 ## Frameworks, Libraries & Programs used
-BOOTSTRAP4: Bootstrap was using to make responsiveness and styling of the website.
-GITHUB : GitHub is used to store the projects code after pushing from git.
-GITPOD: GitPod is used to writing the code.
-Git: Git was used for verson control
-BALSAMIQ : Balsamiq was used to create the wireframes during the design process.
+* BOOTSTRAP4: Bootstrap was using to make responsiveness and styling of the website.
+* GITHUB : GitHub is used to store the projects code after pushing from git.
+* GITPOD: GitPod is used to writing the code.
+* Git: Git was used for verson control
+* BALSAMIQ : Balsamiq was used to create the wireframes during the design process.
 Google Font awesome:
 
 Colors
