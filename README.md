@@ -71,15 +71,46 @@ These user can achieve their goals by doing specific strength and performance cl
 * [W3C markup validator](https://validator.w3.org/) - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F)
 * [W3C CSS validator](http://www.css-validator.org/) - [Result](http://www.css-validator.org/validator?uri=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F&profile=css21&usermedium=all&warning=1&lang=en)
 ## Testing User Stories from User Experience (UX) Section
-
+### First Time Visitor Goals
+1. As a first time visitor, i want to understand the purpose of the site and learn about the organisation.
+   * when enter on the site, user are enable clean and readable navigation top of the page. there is a hero image
+  with text and "special offer" by clicking they can see the current offer. there is a Joining button under the hero image text.
+1. As a first time visitor, i want to navigate this site easily to find the contant.
+   * this site is design with simple and clickable way to visit one page to any other page through navigation bar and link button.
+  on contact page , user can fill up their details and submit their inquires staight away.
+1. As a first time visitor, i want to understand their user think and are they trusted. i want to check their social media link and rating to determine to use the service.
+   * from the page about us , visitor will why they should join with us. easy to reach out with management by email or phone call.
+### Returning Visitor Goals
+1. As a returning Visitor, i want to find information about opening hours, trainer, classes and location.
+   * visitor will find easily all the information through this site.
+1. As a returning visitor, i want to find the best way to contact with the GYM management.
+   * visitor will find flixiable  way to contact with management.
+1. As a returning visitor, i want to find the community links.
+   * visitor will love to interact with social media links of the site with sharing and expressining their experience.
+### Frequent User Goals
+1. As a frequent user, i want to check any special offer going on .
+   * top of the every page visitor will find current special offer by clicking.
+1. As a frequent user, i want to sign up to get update information about this organisation.
+    * visitor who signed up , automatically they will receive update promotion offer and blog news by email.
 ## Further Testing
-
-## Known Bugs
+* This site was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+* This site was viewed on many different type of devices such as Desktop, Laptop,iphone6, iPhone7, iPhone 8 & iPhoneX.
+* testing was done many times to ensure that all pages were working and linking correctly.
+## Bugs
+1. in different device some of the image was not properly setup and text images 
+  * viewed in many different devices and fixed the issued by changing image and text property.
+1. top of the Hero image, hero text image was not clear to read the information.
+  * adding up backgroud color in hero text image, issue is sorted out.
 
 ## Deployment
 ### GitHub pages
 * the project was deployed to github pages by following steps
-
+1. log in to the GitHub and locate the github Repository
+1. At the top right of the repository (not top of the page), locate the "setting" Button on the menu.
+1. Scroll drown the settings page untill you locate the "GitHub pages" section.
+1. Under "source", click the dropdown called "None" and select "Main Branch".
+1. The page will automatically refresh
+1. Scroll back down through the page to locate the now published site link in the github pages section.
 
 ## Credits
 ### Code :
