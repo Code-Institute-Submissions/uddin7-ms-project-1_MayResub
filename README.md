@@ -33,7 +33,8 @@ These user can achieve their goals by doing specific strength and performance cl
 * Member portal management
 * Fitness class schedule and bookings system
 * Free online classes for member
-## Features/Design choices
+## Features
+* responsive in all type of device.
 #### There are five Features laying out in the below
 * Join: by clicking and filling up the form customer can register and get a membership with several option plan
 * Login: member can login with this 
@@ -45,7 +46,13 @@ These user can achieve their goals by doing specific strength and performance cl
 * High quality visuals and fresh content
 * Google maps for location
 * News and events
-
+## Design
+* color: these color are used-Black , white , blue, gray and orange
+## Typography
+* Family-font  Arial,helvetica is the main font used throughout the whole website.
+* Sans Serif is the fallback font in case for any reason the font isn't being imported into the site correctly.
+## Imagery
+* Images are taken from google Libraries and Hero image is chosen to catch user attention.
 ## Technologies Used
 * HTML5
 * CSS3
