@@ -18,6 +18,7 @@ color:  white;
    background-color:rgba(15, 1, 1, 0.925);
    color: white;
    text-align: center;
+   margin: 0;
    
 }
 
@@ -25,7 +26,8 @@ color:  white;
 
 
  .container-fluid{
-   background-color: rgb(202, 202, 179);
+   background-color: rgb(221, 221, 207);
+   
    
  }
  .hero-image {
@@ -45,8 +47,8 @@ color:  white;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:#ffffff;
-  background-color:#ffa500;
+  color:white;
+  background-color:#ff8c00;
 }
 .fly-image {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJw7rRUOh5weRp6fGX-GabK2ETzH5bnjwrMA&usqp=CAU");
@@ -290,6 +292,7 @@ color:  white;
    background-color:#574848;
    color: white;
    text-align: center;
+   margin: 0;
    }
 
 
