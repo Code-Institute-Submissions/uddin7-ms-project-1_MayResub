@@ -22,13 +22,9 @@ color:  white;
    
 }
 
-
-
-
  .container-fluid{
    background-color: rgb(221, 221, 207);
-   
-   
+    
  }
  .hero-image {
   background-image: url("https://www.vu.edu.au/sites/default/files/styles/featured_link_768x430/public/VU-Footscray-Park-Gym.png?itok=ItmaJXs3");
@@ -47,8 +43,8 @@ color:  white;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color:white;
-  background-color:#ff8c00;
+  color:black;
+  background-color:orangered;
 }
 .fly-image {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJw7rRUOh5weRp6fGX-GabK2ETzH5bnjwrMA&usqp=CAU");
