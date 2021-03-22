@@ -54,6 +54,7 @@ These user can achieve their goals by doing specific strength and performance cl
 ## Imagery
 * Images are taken from google Libraries and Hero image is chosen to catch user attention.
 ## Technologies Used
+### Languages Used
 * HTML5
 * CSS3
 ## Frameworks, Libraries & Programs used
@@ -62,10 +63,8 @@ These user can achieve their goals by doing specific strength and performance cl
 * GITPOD: GitPod is used to writing the code.
 * Git: Git was used for verson control
 * BALSAMIQ : Balsamiq was used to create the wireframes during the design process.
-Google Font awesome:
-
-Colors
-Fonts
+* Google Fonts: Google fonts were used into the style.css file which is used on all pages throughout the project.
+* Font Awesome: Font Awesome is used on all the pages throughout the project.
 Structure
 Wireframes
 Desktop Wireframes
