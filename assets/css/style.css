@@ -238,7 +238,8 @@ color:  white;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: black;
+
 }
 .about-image1 {
   background-image: url("https://elementfitness.com.au/wp-content/uploads/2020/01/bodypump.jpg");
@@ -257,7 +258,8 @@ color:  white;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: black;
+  
 }
 
 .about-image2 {
@@ -277,7 +279,8 @@ color:  white;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
+  color: black;
+  
 }
 
    .footer {
