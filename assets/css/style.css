@@ -119,7 +119,19 @@ color:  white;
   position: relative;
 }
 
-
+#about 
+ {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#about .col-md-6
+{
+    padding: 20px 10px;
+}
+#about h3
+{
+    margin: 20px auto;
+}
 
 .about-image {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0MzAcFIySSaU1X2EKbZsiOfcYORNbwb4Nw&usqp=CAU");
