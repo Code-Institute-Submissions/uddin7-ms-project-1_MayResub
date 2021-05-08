@@ -48,7 +48,7 @@ color:  white;
   left: 50%;
   transform: translate(-50%, -50%);
   color:black;
-  background-color:orangered;
+  background-color:white;
 }
 .fly-image {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJw7rRUOh5weRp6fGX-GabK2ETzH5bnjwrMA&usqp=CAU");
