@@ -215,6 +215,26 @@ color:  white;
     background-color: #fff;
     box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
 }
+.welcome h1 
+{
+    color:#333;
+}
+.welcome h2
+{
+    color:#333;
+}
+.welcome p
+{
+    font-weight: bold;
+}
+.welcome .home-btn
+{
+    margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: #fff;
+    background-color: black;
+}
 
 #footer {
    position: bottom;
