@@ -1,5 +1,5 @@
 # MS1 Project - GET FIT
-site url https://uddin7.github.io/ms-project-1/
+## site url: https://uddin7.github.io/ms-project-1/
  Project's Name and Goals
 GET FIT, Fitness for life is a health and fitness centre to provide information and training awareness of health and fitness in daily lifestyle. 
 ## User Goals
@@ -67,9 +67,10 @@ These user can achieve their goals by doing specific strength and performance cl
 * Google Fonts: Google fonts were used into the style.css file which is used on all pages throughout the project.
 * Font Awesome: Font Awesome is used on all the pages throughout the project.
 ## Wireframes
-* wireframes links[Wireframes](https://rose-anglerfish-14ntdq4z.ws-eu03.gitpod.io/#/workspace/ms-project-1)
+* wireframes links[Wireframes](https://silver-puma-ux6syhx9.ws-eu03.gitpod.io/files/download/?id=ee1eaaaf-8593-4d8e-9acb-61b9fa4051c9)
 ## Testing
-* [W3C markup validator](https://validator.w3.org/) - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F)
+* [W3C markup validator](https://validator.w3.org/) - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F) 
+
 * [W3C CSS validator](http://www.css-validator.org/) - [Result](http://www.css-validator.org/validator?uri=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F&profile=css21&usermedium=all&warning=1&lang=en)
 * [WEB Accessibility](https://wave.webaim.org/)  - [Result](https://wave.webaim.org/report#/https://uddin7.github.io/ms-project-1/)
 ## Testing User Stories from User Experience (UX) Section
@@ -119,8 +120,9 @@ These user can achieve their goals by doing specific strength and performance cl
 #### Hero image background code using from w3schools and customised for this project.
 #### Bootstrap 4 was using for responsive 
 #### Internal tutorial is used with customized for this project.
+#### youtube tutorial (easy tutorials) used and customized for this project.
 ### Content:
-#### All content was written by developer
+#### All content was written by developer and some are taken from https://www.flyefit.ie/ and customised.
 
 ### Media
  ####   All Images is used in this project were obtained from google
