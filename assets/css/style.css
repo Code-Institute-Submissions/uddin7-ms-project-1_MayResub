@@ -201,7 +201,20 @@ color:  white;
 {
     margin: 20px auto;
 }
-
+#contact-image
+{
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/full-body-workout-1563458040.jpg);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+.welcome
+{
+    padding: 15px 100px;
+    margin-top: -140px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
+}
 
 #footer {
    position: bottom;
