@@ -67,7 +67,7 @@ These user can achieve their goals by doing specific strength and performance cl
 * Google Fonts: Google fonts were used into the style.css file which is used on all pages throughout the project.
 * Font Awesome: Font Awesome is used on all the pages throughout the project.
 ## Wireframes
-* wireframes links[Wireframes](https://silver-puma-ux6syhx9.ws-eu03.gitpod.io/files/download/?id=ee1eaaaf-8593-4d8e-9acb-61b9fa4051c9)
+* wireframes links[Wireframes](https://github.com/uddin7/ms-project-1/blob/main/wireframes/Milestone%20Project%201%20wireframes.pdf)
 ## Testing
 * [W3C markup validator](https://validator.w3.org/) - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F) 
 * [W3C markup validator](https://validator.w3.org/) - [Result Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Findex.html)
