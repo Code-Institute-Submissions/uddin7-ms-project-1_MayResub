@@ -236,17 +236,11 @@ color:  white;
     background-color: black;
 }
 
-#footer {
-   
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color:#574848;
-   color: white;
-   text-align: center;
-   margin: 0;
-   }
 
+footer 
+{
+    height: 150px;
+}
 
 .social-media{
   text-align: center;
@@ -258,6 +252,8 @@ color:  white;
   font-size: 160%;
   margin: 1%;
   padding: 5%;
-  color:#9c8d8d;
+  color: #777777;
+  
+
 
 }
