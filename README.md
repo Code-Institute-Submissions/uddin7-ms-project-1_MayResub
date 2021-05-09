@@ -1,4 +1,6 @@
 # MS1 Project - GET FIT
+## [responsive in different device view](https://github.com/uddin7/ms-project-1/blob/main/wireframes/images/responsive%20in%20different%20devices%20view.PNG)
+
 ## [View the Deployed Website](https://uddin7.github.io/ms-project-1/)
  ## Project's Name and Goals
 GET FIT, Fitness for life is a health and fitness centre to provide information and training awareness of health and fitness in daily lifestyle. 
