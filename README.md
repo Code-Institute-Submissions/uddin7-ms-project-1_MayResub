@@ -73,13 +73,12 @@ These user can achieve their goals by doing specific strength and performance cl
 ## Testing
 ## HTML Validation
 ### The [W3C Markup validator service](https://validator.w3.org/)  was used to validate the html of the website.
-### Click on the page name to see the result: [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Findex.html) [Classes](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fclasses.html) [about us](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Faboutus.html) [Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fcontactus.html) [join](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fjoin.html)
+### Click on the page name to see the result: [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Findex.html)   [Classes](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fclasses.html) [about us](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Faboutus.html) [Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fcontactus.html) [join](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fjoin.html)
 ## CSS Validation
 ### The [W3C CSS Validator Service](http://www.css-validator.org/) was used to validate the CSS of the website.
-### [Result]()
-### The 
-* [W3C CSS validator](http://www.css-validator.org/) - [Result](http://www.css-validator.org/validator?uri=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F&profile=css21&usermedium=all&warning=1&lang=en)
-* [WEB Accessibility](https://wave.webaim.org/)  - [Result](https://wave.webaim.org/report#/https://uddin7.github.io/ms-project-1/)
+### [jagsaw W3C CSS validator Result](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+## Accessibility
+### [WEB Accessibility](https://wave.webaim.org/)  - [Home](https://wave.webaim.org/report#/https://uddin7.github.io/ms-project-1/index.html)  [classes](https://wave.webaim.org/report#/https://uddin7.github.io/ms-project-1/classes.html) [about us](https://wave.webaim.org/report#/https://uddin7.github.io/ms-project-1/aboutus.html) [contact](https://wave.webaim.org/report#/https://uddin7.github.io/ms-project-1/contactus.html) [join](https://wave.webaim.org/report#/https://uddin7.github.io/ms-project-1/join.html)
 ## Testing User Stories from User Experience (UX) Section
 ### First Time Visitor Goals
 1. As a first time visitor, i want to understand the purpose of the site and learn about the organisation.
