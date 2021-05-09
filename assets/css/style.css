@@ -48,7 +48,7 @@ color:  white;
   left: 50%;
   transform: translate(-50%, -50%);
   color:black;
-  background-color:paleturquoise;
+  background-color:#AFEEEE;
 }
 .fly-image {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJw7rRUOh5weRp6fGX-GabK2ETzH5bnjwrMA&usqp=CAU");
@@ -130,7 +130,7 @@ color:  white;
 {
     
     height: 145px;
-    background-color:paleturquoise;
+    background-color:#AFEEEE;
 }
 .join-box .join-left
 {
@@ -212,7 +212,7 @@ color:  white;
 {
     padding: 15px 100px;
     margin-top: -140px;
-    background-color:paleturquoise;
+    background-color:#AFEEEE;
     box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
 }
 .welcome h1 
@@ -254,7 +254,4 @@ color:  white;
   margin: 1%;
   padding: 5%;
   color: white;
-  
-
-
 }
