@@ -130,7 +130,7 @@ color:  white;
 {
     
     height: 145px;
-    background-color:white;
+    background-color:paleturquoise;
 }
 .join-box .join-left
 {
@@ -162,7 +162,7 @@ color:  white;
 }
 #join-form
 {
-   padding-top: 10px;
+   padding-top: 20px;
    padding-bottom: 10px;
    padding-left: 60px;
     width: 80%;
@@ -212,7 +212,7 @@ color:  white;
 {
     padding: 15px 100px;
     margin-top: -140px;
-    background-color: #fff;
+    background-color:paleturquoise;
     box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
 }
 .welcome h1 
