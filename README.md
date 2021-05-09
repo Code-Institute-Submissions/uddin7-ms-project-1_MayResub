@@ -71,9 +71,13 @@ These user can achieve their goals by doing specific strength and performance cl
 ## Wireframes
 * wireframes links[Wireframes](https://github.com/uddin7/ms-project-1/blob/main/wireframes/Milestone%20Project%201%20wireframes.pdf)
 ## Testing
-* [W3C markup validator](https://validator.w3.org/) - [Result](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F) 
-* [W3C markup validator](https://validator.w3.org/) - [Result Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Findex.html)
-* [W3C markup validator](https://validator.w3.org/) - [Result Classes Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fclasses.html)
+## HTML Validation
+### The [W3C Markup validator service](https://validator.w3.org/)  was used to validate the html of the website.
+### Click on the page name to see the result: [Home](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Findex.html) [Classes](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fclasses.html) [about us](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Faboutus.html) [Contact](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fcontactus.html) [join](https://validator.w3.org/nu/?doc=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2Fjoin.html)
+## CSS Validation
+### The [W3C CSS Validator Service](http://www.css-validator.org/) was used to validate the CSS of the website.
+### [Result]()
+### The 
 * [W3C CSS validator](http://www.css-validator.org/) - [Result](http://www.css-validator.org/validator?uri=https%3A%2F%2Fuddin7.github.io%2Fms-project-1%2F&profile=css21&usermedium=all&warning=1&lang=en)
 * [WEB Accessibility](https://wave.webaim.org/)  - [Result](https://wave.webaim.org/report#/https://uddin7.github.io/ms-project-1/)
 ## Testing User Stories from User Experience (UX) Section
