@@ -237,9 +237,10 @@ color:  white;
 }
 
 
-footer 
+#footer 
 {
     height: 150px;
+    background-color: whitesmoke;
 }
 
 .social-media{
