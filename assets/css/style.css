@@ -48,7 +48,7 @@ color:  white;
   left: 50%;
   transform: translate(-50%, -50%);
   color:black;
-  background-color:white;
+  background-color:paleturquoise;
 }
 .fly-image {
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJw7rRUOh5weRp6fGX-GabK2ETzH5bnjwrMA&usqp=CAU");
@@ -240,7 +240,7 @@ color:  white;
 #footer 
 {
     height: 150px;
-    background-color: whitesmoke;
+    background-color: blue;
 }
 
 .social-media{
@@ -253,7 +253,7 @@ color:  white;
   font-size: 160%;
   margin: 1%;
   padding: 5%;
-  color: #777777;
+  color: white;
   
 
 
