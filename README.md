@@ -1,6 +1,6 @@
 # MS1 Project - GET FIT
-## site url: https://uddin7.github.io/ms-project-1/
- Project's Name and Goals
+## [View the Deployed Website](https://uddin7.github.io/ms-project-1/)
+ ## Project's Name and Goals
 GET FIT, Fitness for life is a health and fitness centre to provide information and training awareness of health and fitness in daily lifestyle. 
 ## User Goals
 * Leading a healthy life style and get related information and personal training to achieve their goals like as losing weight or gaining weight, building muscle , lose fat, increase strength and performance, look better etc.
